@@ -23,5 +23,5 @@ describe 'Genre Associations' do
 
     expect(@genre.artists).to include(artist)
   end
-  
+
 end
